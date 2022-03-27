@@ -130,3 +130,5 @@ ML.NET is licensed under the [MIT license](LICENSE), and it is free to use comme
 ## .NET Foundation
 
 ML.NET is a part of the [.NET Foundation](https://www.dotnetfoundation.org/projects).
+## .Net Foundation
+one exercise of github
